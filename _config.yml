@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Niklas Kühl / Personal Website"
-title_separator          : "-"
+title                    : "Niklas Kühl"
+title_separator          : "|"
 name                     : &name "Niklas Kühl"
 description              : &description "personal description"
 url                      : https://nkukit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Niklas Kühl"
   avatar           : "/assets/profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Full Professor for human-centric AI, researching on the interface of HCI, IS and CS"
+  location         : "Bayreuth, Germany"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.de/citations?user=79KpdDQAAAAJ"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/niklaskuehl/"
+  linkedin         : "niklaskuehl"
   orcid            : "https://orcid.org/0000-0001-6750-0876"
   pinterest        :
   soundcloud       :
