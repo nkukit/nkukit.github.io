@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Niklas Kühl"
+  name             : # "Niklas Kühl"
   avatar           : "/assets/profile.png"
   bio              : "Full Professor for human-centric AI, researching on the interface of HCI, IS and CS"
   location         : "Bayreuth, Germany"
