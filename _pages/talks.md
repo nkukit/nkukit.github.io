@@ -1,6 +1,7 @@
 ---
-title: 'Selected Talks'
-layout: single
+layout: archive
+title: "Selected Talks"
+permalink: /talks/
 author_profile: true
 ---
 
