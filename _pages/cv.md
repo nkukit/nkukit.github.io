@@ -21,8 +21,7 @@ Work experience
   * IBM Germany
 
 * 09/2017-02/2023: Head of Applied AI in Services Lab
-  * Karlsruhe Service Research Institute (KSRI)
-  * Institute of Information Systems and Marketing (IISM)
+  * Karlsruhe Service Research Institute (KSRI) / Institute of Information Systems and Marketing (IISM)
 
 * 08/2014-08/2017: Research Assistant
   * Karlsruhe Service Research Institute (KSRI)
