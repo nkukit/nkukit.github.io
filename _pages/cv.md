@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Here is a selected overview of my education, work experience and experience abroad.
+Here is a selected overview of my education, work experience, experience abroad and awards.
 
 Education
 ======
