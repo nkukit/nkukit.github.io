@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Here is a selected overview of my education, work experience and experience abroad.
+
 Education
 ======
 * B.Sc. in Industrial Engineering & Management, Karlsruhe Institute of Technology (KIT), 2010
