@@ -1,59 +1,10 @@
 ---
-layout: archive
-title: "CV"
-permalink: /cv/
+title: 'Talks'
+layout: single
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
-
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- \[Dec '22\] I gave an interview to the ML.Ops Community with the title "Machine Learning Operations — What is it and Why Do We Need It?", which you can find on [Youtube](https://www.youtube.com/watch?v=FgaKl5XsuMc) or [Spotify](https://open.spotify.com/episode/75GBfKNBPrYKwL4zEon1sI?si=55b6b603b70a4948) 
+- \[Nov '22\] I gave an invited talk with the title "Towards ML products: MLOps & Complementarity" at the Healthy AI Lab at Chalmers University of Technology (2022), Gothenburg, Sweden
+- \[Nov '22\] I gave an invited talk at WU Wien, hosted by [Christian Haas](https://bach.wu.ac.at/d/research/ma/18957/)
+- \[Mar '22\] I gave an invited talk entitled "Human-AI Complementarity" at the University of Texas, Austin, hosted by [Maria De-Arteaga]([https://bach.wu.ac.at/d/research/ma/18957/](https://mariadearteaga.com/))
