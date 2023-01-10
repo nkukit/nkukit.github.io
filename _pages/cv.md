@@ -36,3 +36,10 @@ Experience abroad
 * 12/2018 Research stay at the University of Auckland, hosted by [Tava Olsen](https://www.exec.auckland.ac.nz/programmes-and-courses-for-individuals/short-courses/presenter/?presenter=31363-tava-olsen)
 * 11/2016 Research stay at the University of Warwick, hosted by [Irene C L Ng](https://ireneng.com/)
 * 2012, Internship Porsche Business Services, Chicago
+
+Awards
+======
+* IBM Best Paper Award 2018 and 2019
+* HICSS Best Paper 2021
+* KIT Department of Economics and Management Faculty Teaching Award 2015, 2016, 2019, 2020
+* DAAD International Collaboration Package 2015 and 2019
