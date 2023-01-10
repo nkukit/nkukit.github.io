@@ -12,6 +12,9 @@ The focus of my research is on human-centric artificial intelligence. I strongly
 
 Only in their interdisciplinary combination in the development of socio-technical systems can they unfold their full potential and provide benefits in later applications. I see my mission in the further exploration of these principles and their teaching to students and society.
 
+Currently, I am especially interested in Complementary Collaboration of Humans and AI, Fairness in AI-assisted decision making
+AI for sustainability, and Data-centric development of AI systems.
+
 * [My publications](https://scholar.google.de/citations?user=79KpdDQAAAAJ) 
 * [Selected Talks](/talks)
 * [Teaching portfolio](/teaching)
