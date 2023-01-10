@@ -26,4 +26,11 @@ Work experience
 * 08/2014-08/2017: Research Assistant
   * Karlsruhe Service Research Institute (KSRI)
   
-
+Experience abroad
+======
+* 03/2022 Research stay at the University of Texas in Austin, hosted by [Maria De-Arteaga](https://mariadearteaga.com/)
+* 03/2019 Research stay at the Wharton School of the University of Pennsylvania, hosted by [Steven O. Kimbrough](https://oid.wharton.upenn.edu/profile/sok/#research)
+* 02/2019 Research stay at the MIT-IBM Watson AI Lab, hosted by [John Cohn](https://en.wikipedia.org/wiki/John_Cohn)
+* 12/2018 Research stay at the University of Auckland, hosted by [Tava Olsen](https://www.exec.auckland.ac.nz/programmes-and-courses-for-individuals/short-courses/presenter/?presenter=31363-tava-olsen)
+* 11/2016, Research stay at the University of Warwick, hosted by [Irene C L Ng](https://ireneng.com/)
+* 2012, Internship Porsche Business Services, Chicago
