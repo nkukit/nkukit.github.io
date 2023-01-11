@@ -16,7 +16,7 @@ I see my mission in the further exploration of these principles and their teachi
 
 If you are interested in working with me, feel free to reach out anytime. If you'd like to learn more, explore the following links:
 
-* [My publications](https://scholar.google.de/citations?user=79KpdDQAAAAJ) 
+* [My publications ordered by citations](https://scholar.google.de/citations?user=79KpdDQAAAAJ) 
 * [Selected Talks](/talks)
 * [Teaching portfolio](/teaching)
 * [Community Services](/community)
