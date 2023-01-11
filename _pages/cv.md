@@ -9,16 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-Here is a selected overview of my education, work experience, experience abroad and awards.
-
-Education
-======
-* B.Sc. in Industrial Engineering & Management, Karlsruhe Institute of Technology (KIT), 2010
-* M.Sc. in Industrial Engineering & Management, Karlsruhe Institute of Technology (KIT), 2014
-* Ph.D in Information Systems, Karlsruhe Institute of Technology (KIT), 2017 (summa cum laude)
+Here is a selected overview of my work experience, experience abroad, awards and education.
 
 Work experience
 ======
+* Since 03/2023: Full Professor Information Systems and human-centric AI
+  * University of Bayreuth
+
+* Since 03/2023: Director
+  * Fraunhofer FIT  
+
 * Since 02/2020: Managing Consultant Data Science
   * IBM Germany
 
@@ -43,3 +43,11 @@ Awards
 * HICSS Best Paper 2021
 * KIT Department of Economics and Management Faculty Teaching Award 2015, 2016, 2019, 2020
 * DAAD International Collaboration Package 2015 and 2019
+
+
+Education
+======
+* B.Sc. in Industrial Engineering & Management, Karlsruhe Institute of Technology (KIT), 2010
+* M.Sc. in Industrial Engineering & Management, Karlsruhe Institute of Technology (KIT), 2014
+* Ph.D in Information Systems, Karlsruhe Institute of Technology (KIT), 2017 (summa cum laude)
+
