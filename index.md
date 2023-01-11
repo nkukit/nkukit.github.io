@@ -14,10 +14,11 @@ Only in their interdisciplinary combination in the development of socio-technica
 
 I see my mission in the further exploration of these principles and their teaching to students, industry, and society.
 
-If you are interested in working with me, feel free to reach out anytime.
+If you are interested in working with me, feel free to reach out anytime. If you'd like to learn more, explore the following links:
 
 * [My publications](https://scholar.google.de/citations?user=79KpdDQAAAAJ) 
 * [Selected Talks](/talks)
 * [Teaching portfolio](/teaching)
 * [Community Services](/community)
 * [CV](/cv)
+* [My random, incomplete learnings on how-to-write papers](https://github.com/nkukit/howtopaper)
