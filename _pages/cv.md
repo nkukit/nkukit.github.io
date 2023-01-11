@@ -16,7 +16,7 @@ Work experience
 * Since 03/2023: Full Professor Information Systems and human-centric AI
   * University of Bayreuth
 
-* Since 03/2023: Director
+* Since 03/2023: Department Head
   * Fraunhofer FIT  
 
 * Since 02/2020: Managing Consultant Data Science
