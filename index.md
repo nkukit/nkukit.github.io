@@ -6,7 +6,7 @@ author_profile: true
 
 Hi there, I'm Niklas!
 
-I'm full professor of Information Systems and human-centric AI at the University of Bayreuth. I am also department head at the Fraunhofer FIT and an affiliated researcher at the KIT. I have practical experience as a Managing Consultant Data Science at IBM. 
+I'm full professor of Information Systems and human-centric AI at the University of Bayreuth. I am also department head at the Fraunhofer FIT and an affiliated researcher at the KIT. In addition to my adademic background, I have practical experience as a Managing Consultant Data Science at IBM. 
 
 The focus of my research is on human-centric artificial intelligence. I strongly believe that two core competencies are needed for inventive AI applications and their successful, fair and robust adaptation in the market: The technology perspective (deep knowledge of machine learning methods) and the human perspective (deep knowledge of human-centric design methods). 
 
