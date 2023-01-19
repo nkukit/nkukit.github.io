@@ -7,7 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-Here is a selected overview of my teaching experience.
+Here is a selected overview of my teaching portfolio and experience.
+
+Teaching at UBT
+======
+* Applied Artificial Intelligence (WS23/24)
+* Digital Financial Reporting (SS23)
+* Human-AI Collaboration (tba)
 
 Teaching at Karlsruhe Service Research Institute (KSRI) & Institute of Information Systems and Marketing (IISM) at KIT
 ======
