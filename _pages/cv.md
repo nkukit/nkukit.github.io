@@ -23,10 +23,13 @@ Work experience
   * IBM Germany
 
 * 09/2017-02/2023: Head of Applied AI in Services Lab
-  * Karlsruhe Service Research Institute (KSRI) / Institute of Information Systems and Marketing (IISM)
+  * Karlsruhe Service Research Institute (KSRI) / Institute of Information Systems and Marketing (IISM), KIT
 
 * 08/2014-08/2017: Research Assistant
-  * Karlsruhe Service Research Institute (KSRI)
+  * Karlsruhe Service Research Institute (KSRI), KIT
+
+* 10/2012-08/2014: Research Assistant (part-time during master's)
+  * Institute of Applied Informatics and Formal Description Methods (AIFB), KIT
   
 Experience abroad
 ======
@@ -39,8 +42,8 @@ Experience abroad
 
 Awards
 ======
+* HICSS Best Paper Award 2021
 * IBM Best Paper Award 2018 and 2019
-* HICSS Best Paper 2021
 * KIT Department of Economics and Management Faculty Teaching Award 2015, 2016, 2019, 2020
 * DAAD International Collaboration Package 2015 and 2019
 
