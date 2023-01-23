@@ -9,7 +9,7 @@ author_profile: true
 
 Here is a selected overview of my teaching portfolio and experience.
 
-Teaching at UBT
+Teaching at University of Bayreuth
 ======
 * Applied Artificial Intelligence (WS23/24)
 * Digital Financial Reporting (SS23)
@@ -28,7 +28,7 @@ Teaching at Hector Business School (Executives)
 ======
 * Digital Service Module (2020, 2021, 22)
   
-Teaching at Institute of Applied Informatics and Formal Description Methods at KIT
+Teaching at Institute of Applied Informatics and Formal Description Methods (AIFB) at KIT
 ======
 * Programming I: Java (WS12/13, WS13/14, WS14/15, WS15/16, WS16/17)
 * Advanced Programming (SS13, SS14, SS15, SS16)
