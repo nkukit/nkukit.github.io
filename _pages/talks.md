@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Selected Talks"
+title: "Selected Talks & Media"
 permalink: /talks/
 author_profile: true
 ---
