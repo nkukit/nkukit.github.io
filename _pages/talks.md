@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
+- \[Jan '23\] I talked to [Deutschlandfunk Kultur](https://www.deutschlandfunkkultur.de/chatbots-suchmaschinen-chatgpt-google-microsoft-bing-100.html) about the consequences and risks of ChatGPT for Google
 - \[Dec '22\] I gave an interview to the ML.Ops Community with the title "Machine Learning Operations — What is it and Why Do We Need It?", which you can find on [Youtube](https://www.youtube.com/watch?v=FgaKl5XsuMc) or [Spotify](https://open.spotify.com/episode/75GBfKNBPrYKwL4zEon1sI?si=55b6b603b70a4948). Or watch these shorts [Short 1](https://www.youtube.com/shorts/RYUear573iA), [Short 2](https://www.youtube.com/shorts/yBjeO9q8cQ4), [Short 3](https://www.youtube.com/shorts/nOECkr7oIak) 
 - \[Nov '22\] I gave an invited talk with the title "Towards ML products: MLOps & Complementarity" at the Healthy AI Lab at Chalmers University of Technology (2022), Gothenburg, Sweden
 - \[Nov '22\] I gave an invited talk at WU Wien, hosted by [Christian Haas](https://bach.wu.ac.at/d/research/ma/18957/)
