@@ -47,6 +47,10 @@ Awards
 * KIT Department of Economics and Management Faculty Teaching Award 2015, 2016, 2019, 2020
 * DAAD International Collaboration Package 2015 and 2019
 
+Founding experience
+======
+* 2018: Co-Founder of kalytics (later developed into [prenode](https://www.prenode.de/)) 
+* 2015-2021: Co-Founder and Executive Board Member of [Education for Refugees e.V.](https://www.eduref.eu/)
 
 Education
 ======
