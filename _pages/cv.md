@@ -19,7 +19,10 @@ Work experience
 * Since 03/2023: Department Head
   * Fraunhofer FIT  
 
-* Since 02/2020: Managing Consultant Data Science
+* Since 03/2023: Senior Expert Artificial Intelligence
+  * IBM Germany
+
+* 02/2020-03/2023: Managing Consultant Data Science
   * IBM Germany
 
 * 09/2017-02/2023: Head of Applied AI in Services Lab
