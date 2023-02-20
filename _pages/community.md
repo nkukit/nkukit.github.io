@@ -4,7 +4,8 @@ title: "Community Services"
 permalink: /community/
 author_profile: true
 ---
-* Reviewer at 
+Reviewer Activities 
+======
  * Computers in Human Behavior (CHB)
  * Communications of the ACM (CACM)
  * Business & Information Systems Engineering (BISE)
@@ -17,6 +18,9 @@ author_profile: true
  * Hawaii International Conference on System Sciences (HICSS)
  * IEEE International Conference on Business Informatics (CBI)
  * International Conference on Business Informatics and Information Systems / Internationale Tagung Wirtschaftsinformatik (WI)
+
+Chairing activities
+======
 
 * Conference chair at IESS 2018 and IESS 2020
 
