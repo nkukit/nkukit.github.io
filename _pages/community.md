@@ -4,6 +4,8 @@ title: "Community Services"
 permalink: /community/
 author_profile: true
 ---
+Here is a selected overview of my community services, including reviewer activites, chairing activites as well as hosting guest researchers.
+
 Reviewer Activities 
 ======
  * Computers in Human Behavior (CHB)
@@ -29,4 +31,10 @@ Chairing activities
   * Optimization of and the use of IT for healthcare processes (2019)
   
 * Associate Editor at ICIS, ECIS, WI
+
+Hosting activities
+======
+
+- \[Feb '23\] [Christian Haas](https://bach.wu.ac.at/d/research/ma/18957/), WU Vienna, with his talk on "Computational (Re-)Districting – An Algorithmic Approach to Addressing Policy Questions"
+- \[Dec '22\] [Hilde Kühne](https://hildekuehne.github.io/), Goethe University Frankfurt, with her talk on "Multimodal Embedding Spaces for Video Understanding"
 
