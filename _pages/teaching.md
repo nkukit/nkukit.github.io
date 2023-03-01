@@ -13,7 +13,7 @@ Teaching at University of Bayreuth
 ======
 * Applied Artificial Intelligence (WS23/24)
 * Digital Financial Reporting (SS23)
-* Human-AI Collaboration (tba)
+* Human-AI Collaboration (SS23)
 
 Teaching at Karlsruhe Service Research Institute (KSRI) & Institute of Information Systems and Marketing (IISM) at KIT
 ======
