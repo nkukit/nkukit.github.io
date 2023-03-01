@@ -5,7 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
-- \[Jan '23\] I talked to [Deutschlandfunk Kultur](https://www.deutschlandfunkkultur.de/chatbots-suchmaschinen-chatgpt-google-microsoft-bing-100.html) about the consequences and risks of ChatGPT for Google
+- \[Mar '23\] I was interviewed for the start of my new job at the [University of Bayreuth](https://www.youtube.com/watch?v=ST-kjYUSj_g) (German only)
+- \[Jan '23\] I talked to [Deutschlandfunk Kultur](https://www.deutschlandfunkkultur.de/chatbots-suchmaschinen-chatgpt-google-microsoft-bing-100.html) about the consequences and risks of ChatGPT for Google (German only)
 - \[Dec '22\] I gave an interview to the ML.Ops Community with the title "Machine Learning Operations — What is it and Why Do We Need It?", which you can find on [Youtube](https://www.youtube.com/watch?v=FgaKl5XsuMc) or [Spotify](https://open.spotify.com/episode/75GBfKNBPrYKwL4zEon1sI?si=55b6b603b70a4948). Or watch these shorts [Short 1](https://www.youtube.com/shorts/RYUear573iA), [Short 2](https://www.youtube.com/shorts/yBjeO9q8cQ4), [Short 3](https://www.youtube.com/shorts/nOECkr7oIak) 
 - \[Nov '22\] I gave an invited talk with the title "Towards ML products: MLOps & Complementarity" at the Healthy AI Lab at Chalmers University of Technology (2022), Gothenburg, Sweden, hosted by [Fredrik Johansson](https://www.healthyai.se/people/fredrik)
 - \[Nov '22\] I gave an invited talk at WU Wien, hosted by [Christian Haas](https://bach.wu.ac.at/d/research/ma/18957/)
