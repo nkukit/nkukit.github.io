@@ -16,7 +16,7 @@ Work experience
 * Since 03/2023: Full Professor Information Systems and human-centric AI
   * University of Bayreuth
 
-* Since 03/2023: Department Head
+* Since 03/2023: Group Leader
   * Fraunhofer FIT  
 
 * Since 03/2023: Senior Expert Artificial Intelligence
