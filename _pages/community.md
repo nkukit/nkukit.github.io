@@ -13,6 +13,7 @@ Reviewer Activities
  * Business & Information Systems Engineering (BISE)
  * ACM Computing Surveys (CSUR)
  * Information Sciences
+ * Operations Research for Health Care (ORHC)
  * European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) 
  * Schmalenbach Journal of Business Research (SBUR)
  * International Conference on Information Systems (ICIS)
