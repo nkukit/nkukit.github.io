@@ -8,6 +8,7 @@ Here is a selected overview of my community services, including reviewer activit
 
 Reviewer Activities 
 ======
+ * Expert Systems with Applications (ESWA)
  * Computers in Human Behavior (CHB)
  * Communications of the ACM (CACM)
  * Business & Information Systems Engineering (BISE)
