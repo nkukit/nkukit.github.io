@@ -22,6 +22,9 @@ Work experience
 * Since 03/2023: Senior Expert Artificial Intelligence
   * IBM Germany
 
+* Since 03/2023: Director 
+  * Research Center Finance & Information Management (FIM)
+
 * 02/2020-03/2023: Managing Consultant Data Science
   * IBM Germany
 
