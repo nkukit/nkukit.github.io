@@ -48,6 +48,7 @@ Experience abroad
 
 Awards
 ======
+* ACM IUI Best Paper Award 2023
 * HICSS Best Paper Award 2021
 * IBM Best Paper Award 2018 and 2019
 * KIT Department of Economics and Management Faculty Teaching Award 2015, 2016, 2019, 2020
