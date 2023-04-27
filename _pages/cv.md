@@ -61,6 +61,7 @@ Founding experience
 
 Education
 ======
+* Habilitation in Applied Computer Science, Karlsruhe Institute of Technology, 2023
 * Ph.D in Information Systems, Karlsruhe Institute of Technology (KIT), 2017 (summa cum laude)
 * M.Sc. in Industrial Engineering & Management, Karlsruhe Institute of Technology (KIT), 2014
 * B.Sc. in Industrial Engineering & Management, Karlsruhe Institute of Technology (KIT), 2010
