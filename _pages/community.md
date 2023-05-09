@@ -10,7 +10,7 @@ Reviewer Activities
 ======
  * Expert Systems with Applications (ESWA)
  * Computers in Human Behavior (CHB)
- * International Journal of Human-Computer Interaction
+ * International Journal of Human-Computer Interaction (IJHCI)
  * Communications of the ACM (CACM)
  * Business & Information Systems Engineering (BISE)
  * ACM Computing Surveys (CSUR)
