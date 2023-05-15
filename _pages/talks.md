@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
+- \[May '23\] I gave an interview to the podcast [Digi-News](https://podcasts.apple.com/de/podcast/folge-8-ki-f%C3%BCr-kmu/id1553734487?i=1000612483945) on Artificial Intelligence for SMEs (German Only)
 - \[Apr '23\] I gave an interview in the local newspaper [Bayrische Rundschau](https://www.dropbox.com/s/6jj97ih5afbvsia/BR_ChatGPT.pdf?dl=0) (German only)
 - \[Apr '23\] I was featured in a portrait article in the local paper of my hometown, [Anzeiger für Harlingerland](https://www.dropbox.com/s/icdqsu8b7xsapi5/Harlinger_UBT.pdf?dl=0) (German only)
 - \[Mar '23\] I gave an invited talk on the paper [On Explanations, Fairness, and Appropriate Reliance](https://arxiv.org/pdf/2209.11812.pdf) at the mini-conference [Analytics und Choice-based Analytics](https://www.gor-ev.de/wp-content/uploads/2023/03/EinladungAGAnalytics2023_V2.pdf) of the Gesellschaft für Operations Research (GOR)
