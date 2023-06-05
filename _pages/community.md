@@ -13,6 +13,7 @@ Reviewer Activities
  * International Journal of Human-Computer Interaction (IJHCI)
  * Communications of the ACM (CACM)
  * Business & Information Systems Engineering (BISE)
+ * Electronic Markets (EM)
  * ACM Computing Surveys (CSUR)
  * Information Sciences
  * Operations Research for Health Care (ORHC)
