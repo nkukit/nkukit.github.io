@@ -46,6 +46,10 @@ Experience abroad
 * 11/2016 Research stay at the University of Warwick, hosted by [Irene C L Ng](https://ireneng.com/)
 * 2012, Internship Porsche Business Services, Chicago
 
+Scientific Advisory
+======
+* Appointed expert in the Committee for Science and the Arts in the Bavarian State Parliament on the topic of "Opportunities and Risks of AI in the Science Sector".
+
 Awards
 ======
 * ACM IUI Best Paper Award 2023
