@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-- \[Jun '23\] I participated as an appointed expert in the Committee for Science and the Arts in the Bavarian State Parliament on the topic of "Opportunities and Risks of AI in the Science Sector", [UBT Article](https://ubtaktuell.uni-bayreuth.de/ki-im-landtag-kuehl), [Parliament Summary](https://www.bayern.landtag.de/aktuelles/aus-den-ausschuessen/wissenschaftsausschuss-anhoerung-chancen-und-risiken-von-ki-im-wissenschaftsbetrieb/) 
+- \[Jun '23\] I participated as an appointed expert in the Committee for Science and the Arts in the Bavarian State Parliament on the topic of "Opportunities and Risks of AI in the Science Sector", see more here [UBT Article](https://ubtaktuell.uni-bayreuth.de/ki-im-landtag-kuehl), [Parliament Summary](https://www.bayern.landtag.de/aktuelles/aus-den-ausschuessen/wissenschaftsausschuss-anhoerung-chancen-und-risiken-von-ki-im-wissenschaftsbetrieb/) (German only)
 - \[May '23\] I gave an interview to the podcast [Digi-News](https://podcasts.apple.com/de/podcast/folge-8-ki-f%C3%BCr-kmu/id1553734487?i=1000612483945) on Artificial Intelligence for SMEs (German Only)
 - \[Apr '23\] I gave an interview in the local newspaper [Bayrische Rundschau](https://www.dropbox.com/s/6jj97ih5afbvsia/BR_ChatGPT.pdf?dl=0) (German only)
 - \[Apr '23\] I was featured in a portrait article in the local paper of my hometown, [Anzeiger für Harlingerland](https://www.dropbox.com/s/icdqsu8b7xsapi5/Harlinger_UBT.pdf?dl=0) (German only)
