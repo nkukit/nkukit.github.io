@@ -52,6 +52,7 @@ Scientific Advisory
 
 Awards
 ======
+* HHAI Best Full Paper Award 2023
 * ACM IUI Best Paper Award 2023
 * HICSS Best Paper Award 2021
 * IBM Best Paper Award 2018 and 2019
