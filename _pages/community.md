@@ -8,6 +8,8 @@ Here is a selected overview of my community services, including reviewer activit
 
 Reviewer Activities 
 ======
+
+ * Management Information Systems Quarterly (MISQ)
  * Expert Systems with Applications (ESWA)
  * Computers in Human Behavior (CHB)
  * International Journal of Human-Computer Interaction (IJHCI)
