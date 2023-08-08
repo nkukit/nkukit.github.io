@@ -37,8 +37,8 @@ Work experience
 * 10/2012-08/2014: Research Assistant (part-time during master's)
   * Institute of Applied Informatics and Formal Description Methods (AIFB), KIT
  
-* 08/2009-04/2010: Intern (full-time)
-  * Prototype Development @Porsche AG
+* 08/2009-04/2010: Intern Prototype Development (full-time)
+  * Porsche AG
   
 Experience abroad
 ======
