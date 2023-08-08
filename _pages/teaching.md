@@ -12,12 +12,13 @@ Here is a selected overview of my teaching portfolio and experience.
 Teaching at University of Bayreuth
 ======
 * Applied Artificial Intelligence (WS23/24)
+* Fundamentals of Information Systems (WS23/24)
 * Digital Financial Reporting (SS23)
 * Human-AI Collaboration (SS23)
 
 Teaching at Karlsruhe Service Research Institute (KSRI) & Institute of Information Systems and Marketing (IISM) at KIT
 ======
-* Artificial Intelligence in Service Systems (WS18/19, WS19/20, WS20/21, WS21/22, WS22/23)
+* Artificial Intelligence in Service Systems (WS18/19, WS19/20, WS20/21, WS21/22, WS22/23, WS23/24)
 * Service Design Thinking (WS18/19)
 * Service Analytics A (SS17, SS18)
 * Foundations of Digital Services (SS15, SS16, SS17, SS18, SS19, SS20,SS21,SS22)
