@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Here is a selected overview of my work experience, experience abroad, awards and education.
+Here is a selected overview of my work experience, experience abroad, awards, and education.
 
 Work experience
 ======
-* Since 03/2023: Full Professor Information Systems and human-centric AI
+* Since 03/2023: Full Professor in Information Systems and human-centric AI
   * University of Bayreuth
 
-* Since 03/2023: Group Leader
+* Since 03/2023: Group Leader "Business Analytics"
   * Fraunhofer FIT  
 
 * Since 03/2023: Senior Expert Artificial Intelligence
