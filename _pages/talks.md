@@ -4,7 +4,7 @@ title: "Selected Talks & Media"
 permalink: /talks/
 author_profile: true
 ---
-
+- \[Aug '23\] I was invited to give a lecture on artificial intelligence to high school and college freshmen, which is available at the University of Bayreuth's [Youtube channel](https://www.youtube.com/watch?v=y6hzbw6ref4) (German only)
 - \[Jul '23\] I gave a talk on [On Explanations, Fairness, and Appropriate Reliance](https://arxiv.org/abs/2209.11812) at the [EIS](https://explainable-intelligent.systems/) — a joint Saarland University / University of Bayreuth / TU Dortmund Research Project
 - \[Jun '23\] I participated as an appointed expert in the Committee for Science and the Arts in the Bavarian State Parliament on the topic of "Opportunities and Risks of AI in the Science Sector", see more here [UBT Article](https://ubtaktuell.uni-bayreuth.de/ki-im-landtag-kuehl), [Parliament Summary](https://www.bayern.landtag.de/aktuelles/aus-den-ausschuessen/wissenschaftsausschuss-anhoerung-chancen-und-risiken-von-ki-im-wissenschaftsbetrieb/) (German only)
 - \[May '23\] I gave an interview to the podcast [Digi-News](https://podcasts.apple.com/de/podcast/folge-8-ki-f%C3%BCr-kmu/id1553734487?i=1000612483945) on Artificial Intelligence for SMEs (German Only)
