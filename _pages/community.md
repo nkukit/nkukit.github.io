@@ -4,7 +4,7 @@ title: "Community Services"
 permalink: /community/
 author_profile: true
 ---
-Here is a selected overview of my community services, including reviewer activites, chairing activites as well as hosting guest researchers.
+Here is a selected overview of my community services, including reviewer activities, chairing activities as well as hosting guest researchers.
 
 Reviewer Activities 
 ======
@@ -20,6 +20,8 @@ Reviewer Activities
  * ACM Computing Surveys (CSUR)
  * Information Sciences
  * Operations Research for Health Care (ORHC)
+ * AAAI Conference on Artificial Intelligence
+ * Human Factors in Computing Systems (CHI)
  * European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) 
  * Schmalenbach Journal of Business Research (SBUR)
  * International Conference on Information Systems (ICIS)
