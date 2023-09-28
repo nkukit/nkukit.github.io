@@ -53,10 +53,11 @@ Scientific Advisory
 ======
 * Appointed expert in the Committee for Science and the Arts in the Bavarian State Parliament on the topic of "Opportunities and Risks of AI in the Science Sector".
 
-Awards
+Awards and Honors
 ======
 * HHAI Best Full Paper Award 2023
 * ACM IUI Best Paper Award 2023
+* IBM Consulting Technical Award 2023
 * HICSS Best Paper Award 2021
 * IBM Best Paper Award 2018 and 2019
 * KIT Department of Economics and Management Faculty Teaching Award 2015, 2016, 2019, 2020
