@@ -4,6 +4,8 @@ title: "Selected Talks & Media"
 permalink: /talks/
 author_profile: true
 ---
+- \[Oct '23\] I was invited to the panel on "AI and Business Development" at the [ETH Launch AI+X Summit](https://www.launchxaisummit.ch/) 
+- \[Oct '23\] I gave a seminar on "Current Trends in Human-AI Collaboration: Appropriate Reliance and Complementary Team Performance" at the University of Zurich (UZH) Departement of Informatics (IFI) [Fall Semester Colloquium 2023](https://www.ifi.uzh.ch/en/studies/phd/colloquium/fall-2023.html#K%C3%BChl) 
 - \[Oct '23\] I gave the keynote on "A Scientific Perspective on GenAI" at the IBM GenAI Rally venues in Munich and Stuttgart
 - \[Aug '23\] I was invited to give a lecture on artificial intelligence to high school and college freshmen, which is available at the University of Bayreuth's [Youtube channel](https://www.youtube.com/watch?v=y6hzbw6ref4) (German only)
 - \[Jul '23\] I gave a talk on [On Explanations, Fairness, and Appropriate Reliance](https://arxiv.org/abs/2209.11812) at the [EIS](https://explainable-intelligent.systems/) — a joint Saarland University / University of Bayreuth / TU Dortmund Research Project
