@@ -29,6 +29,7 @@ Reviewer Activities
  * Hawaii International Conference on System Sciences (HICSS)
  * IEEE International Conference on Business Informatics (CBI)
  * International Conference on Business Informatics and Information Systems / Internationale Tagung Wirtschaftsinformatik (WI)
+ * **European Commission:** European Research Council (ERC)
 
 Chairing activities
 ======
