@@ -4,6 +4,9 @@ title: "Selected Talks & Media"
 permalink: /talks/
 author_profile: true
 ---
+
+- \[Nov '23\] I gave an interview to the Ausgburger Allgemeine newspaper on the [current developments at OpenAI](https://www.dropbox.com/scl/fi/5olmyaz30mt86n8kq1p1o/Augsburger_Allgemeine_Altman.pdf?rlkey=urxfz9jod57u567hzvo0k1hh1&dl=0)
+- \[Oct '23\] I gave a talk on [Explanations, Fairness, and Appropriate Reliance](https://arxiv.org/pdf/2209.11812.pdf) at the [AISoLa conference](https://aisola.org/tracks/b1/friday/)
 - \[Oct '23\] I was invited to the panel on "AI and Business Development" at the [ETH Launch AI+X Summit](https://www.launchxaisummit.ch/) 
 - \[Oct '23\] I gave a seminar on "Current Trends in Human-AI Collaboration: Appropriate Reliance and Complementary Team Performance" at the University of Zurich (UZH) Departement of Informatics (IFI) [Fall Semester Colloquium 2023](https://www.ifi.uzh.ch/en/studies/phd/colloquium/fall-2023.html#K%C3%BChl) 
 - \[Oct '23\] I gave the keynote on "A Scientific Perspective on GenAI" at the IBM GenAI Rally venues in Munich and Stuttgart
