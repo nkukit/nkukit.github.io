@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
+- \[Nov '23\] I gave a talk on [Appropriate Reliance and Imperfect XAI](https://arxiv.org/pdf/2307.13566.pdf) at [ERCIS](https://www.wi.uni-muenster.de/events/4635-appropriate-reliance-and-imperfect-explainable-ai)
 - \[Nov '23\] I gave an interview to the Ausgburger Allgemeine newspaper on the [current developments at OpenAI](https://www.dropbox.com/scl/fi/5olmyaz30mt86n8kq1p1o/Augsburger_Allgemeine_Altman.pdf?rlkey=urxfz9jod57u567hzvo0k1hh1&dl=0)
 - \[Oct '23\] I gave a talk on [Explanations, Fairness, and Appropriate Reliance](https://arxiv.org/pdf/2209.11812.pdf) at the [AISoLa conference](https://aisola.org/tracks/b1/friday/)
 - \[Oct '23\] I was invited to the panel on "AI and Business Development" at the [ETH Launch AI+X Summit](https://www.launchxaisummit.ch/) 
