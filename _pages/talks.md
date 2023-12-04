@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
+- \[Nov '23\] I was honored to give the keynote at the reception ("Wirtschaftsempfang") of the city and district of Bayreuth in 2023. [Press Release (German only)](https://www.landkreis-bayreuth.de/der-landkreis/pressemitteilungen/wirtschaftsempfang-2023-1/). [TV Spot (German only)](https://www.tvo.de/mediathek/video/wirtschaftsempfang-bayreuth-ki-die-zukunft-ist-jetzt/).
 - \[Nov '23\] I gave a talk on [Appropriate Reliance and Imperfect XAI](https://arxiv.org/pdf/2307.13566.pdf) at [ERCIS](https://www.wi.uni-muenster.de/events/4635-appropriate-reliance-and-imperfect-explainable-ai)
 - \[Nov '23\] I gave an interview to the Ausgburger Allgemeine newspaper on the [current developments at OpenAI](https://www.dropbox.com/scl/fi/5olmyaz30mt86n8kq1p1o/Augsburger_Allgemeine_Altman.pdf?rlkey=urxfz9jod57u567hzvo0k1hh1&dl=0)
 - \[Oct '23\] I gave a talk on [Explanations, Fairness, and Appropriate Reliance](https://arxiv.org/pdf/2209.11812.pdf) at the [AISoLa conference](https://aisola.org/tracks/b1/friday/)
