@@ -12,9 +12,11 @@ Here is a selected overview of my teaching portfolio and experience.
 Teaching at University of Bayreuth
 ======
 * Applied Artificial Intelligence (WS23/24)
+* Human-AI Collaboration (SS23,SS24)
+* Fairness in AI (SS23,WS23/24,SS24)
 * Fundamentals of Information Systems (WS23/24)
-* Digital Financial Reporting (SS23)
-* Human-AI Collaboration (SS23)
+* Digital Financial Reporting (SS23,SS24)
+
 
 Teaching at Karlsruhe Service Research Institute (KSRI) & Institute of Information Systems and Marketing (IISM) at KIT
 ======
