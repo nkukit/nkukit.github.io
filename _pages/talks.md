@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+- \[Feb '24\] I gave a keynote on "Generative AI: Examples in Medicine" at the [Digital Future Dialogue 2024](https://www.frankfurt-university.de/de/hochschule/fachbereich-3-wirtschaft-und-recht/forschung-und-transfer/forschungslabore/ditlab/digital-future-dialogue-2024/weitere-infos-zum-abendprogramm/) in Frankfurt
+- \[Feb '24\] I gave a talk on "On Explanations, Fairness, and Appropriate Reliance in Human-AI Decision-Making" at the DFG-funded Managerial AI Network
 - \[Nov '23\] I was honored to give the keynote at the reception ("Wirtschaftsempfang") of the city and district of Bayreuth in 2023. [Press Release (German only)](https://www.landkreis-bayreuth.de/der-landkreis/pressemitteilungen/wirtschaftsempfang-2023-1/). [TV Spot (German only)](https://www.tvo.de/mediathek/video/wirtschaftsempfang-bayreuth-ki-die-zukunft-ist-jetzt/).
 - \[Nov '23\] I gave a talk on [Appropriate Reliance and Imperfect XAI](https://arxiv.org/pdf/2307.13566.pdf) at [ERCIS](https://www.wi.uni-muenster.de/events/4635-appropriate-reliance-and-imperfect-explainable-ai)
 - \[Nov '23\] I gave an interview to the Ausgburger Allgemeine newspaper on the [current developments at OpenAI](https://www.dropbox.com/scl/fi/5olmyaz30mt86n8kq1p1o/Augsburger_Allgemeine_Altman.pdf?rlkey=urxfz9jod57u567hzvo0k1hh1&dl=0)
@@ -12,6 +14,7 @@ author_profile: true
 - \[Oct '23\] I was invited to the panel on "AI and Business Development" at the [ETH Launch AI+X Summit](https://www.launchxaisummit.ch/) 
 - \[Oct '23\] I gave a seminar on "Current Trends in Human-AI Collaboration: Appropriate Reliance and Complementary Team Performance" at the University of Zurich (UZH) Departement of Informatics (IFI) [Fall Semester Colloquium 2023](https://www.ifi.uzh.ch/en/studies/phd/colloquium/fall-2023.html#K%C3%BChl) 
 - \[Oct '23\] I gave the keynote on "A Scientific Perspective on GenAI" at the IBM GenAI Rally venues in Munich and Stuttgart
+- \[Sep '23\] I gave a talk on "Human-AI Collaboration and Imperfect XAI" at the [Managerial AI Event](https://www.daimler-benz-stiftung.de/cms/en/research/ladenburg-roundtable/management-decisions-with-artificial-intelligence.html), funded by the Daimler Benz Foundation
 - \[Aug '23\] I was invited to give a lecture on artificial intelligence to high school and college freshmen, which is available at the University of Bayreuth's [Youtube channel](https://www.youtube.com/watch?v=y6hzbw6ref4) (German only)
 - \[Aug '23\] I was invited to my former secondary school for a lecture on artificial intelligence [School news article (German only)](https://www.gesamtschule-wittmund.de/neuigkeiten/190-vortrag-kuenstliche-intelligenz)
 - \[Jul '23\] I gave a talk on [On Explanations, Fairness, and Appropriate Reliance](https://arxiv.org/abs/2209.11812) at the [EIS](https://explainable-intelligent.systems/) — a joint Saarland University / University of Bayreuth / TU Dortmund Research Project
