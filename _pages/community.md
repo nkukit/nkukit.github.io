@@ -10,6 +10,7 @@ Reviewer Activities
 ======
 
  * Management Information Systems Quarterly (MISQ)
+ * Information Systems Journal (ISJ)
  * European Journal of Information Systems (EJIS)
  * Expert Systems with Applications (ESWA)
  * Computers in Human Behavior (CHB)
