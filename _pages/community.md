@@ -37,6 +37,8 @@ Chairing activities
 
 * Conference chair at IESS 2018 and IESS 2020
 
+* Track Chair at WI 2024 Main Track on AI
+
 * Minitrack Chair at HICSS
   * Service Analytics (2018,2019,2020,2021,2022,2023,2024)
   * Optimization of and the use of IT for healthcare processes (2019)
