@@ -25,6 +25,8 @@ Reviewer Activities
  * Human Factors in Computing Systems (CHI)
  * European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) 
  * Schmalenbach Journal of Business Research (SBUR)
+ * Technological Forecasting & Social Change (TFS)
+ * International Journal of Industrial Ergonomics (ERGON)
  * International Conference on Information Systems (ICIS)
  * European Conference on Information Systems (ECIS)
  * Hawaii International Conference on System Sciences (HICSS)
