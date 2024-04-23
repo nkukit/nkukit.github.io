@@ -5,8 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+- \[Mar '24\ I gave an invited talk on "Explanations, Fairness, and Appropriate Reliance in Human-AI Decision-Making" at the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://cmu.edu/), hosted by [Adam Perer](http://perer.org/) 
+- \[Mar '24\ I gave an invited talk on "Human-AI Collaboration and Imperfect XAI" at the [McCombs School of Business](https://mccombs.utexas.edu/) at [The University of Texas at Austin](https://www.utexas.edu/), hosted by [Maria De-Arteaga](https://mariadearteaga.com/) 
 - \[Feb '24\] I gave a keynote on "Generative AI: Examples in Medicine" at the [Digital Future Dialogue 2024](https://www.frankfurt-university.de/de/hochschule/fachbereich-3-wirtschaft-und-recht/forschung-und-transfer/forschungslabore/ditlab/digital-future-dialogue-2024/weitere-infos-zum-abendprogramm/) in Frankfurt
-- \[Feb '24\] I gave a talk on "On Explanations, Fairness, and Appropriate Reliance in Human-AI Decision-Making" at the DFG-funded Managerial AI Network
+- \[Feb '24\] I gave a talk on "Explanations, Fairness, and Appropriate Reliance in Human-AI Decision-Making" at the DFG-funded Managerial AI Network
 - \[Nov '23\] I was honored to give the keynote at the reception ("Wirtschaftsempfang") of the city and district of Bayreuth in 2023. [Press Release (German only)](https://www.landkreis-bayreuth.de/der-landkreis/pressemitteilungen/wirtschaftsempfang-2023-1/). [TV Spot (German only)](https://www.tvo.de/mediathek/video/wirtschaftsempfang-bayreuth-ki-die-zukunft-ist-jetzt/).
 - \[Nov '23\] I gave a talk on [Appropriate Reliance and Imperfect XAI](https://arxiv.org/pdf/2307.13566.pdf) at [ERCIS](https://www.wi.uni-muenster.de/events/4635-appropriate-reliance-and-imperfect-explainable-ai)
 - \[Nov '23\] I gave an interview to the Ausgburger Allgemeine newspaper on the [current developments at OpenAI](https://www.dropbox.com/scl/fi/5olmyaz30mt86n8kq1p1o/Augsburger_Allgemeine_Altman.pdf?rlkey=urxfz9jod57u567hzvo0k1hh1&dl=0)
