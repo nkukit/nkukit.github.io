@@ -13,7 +13,7 @@ Here is a selected overview of my work experience, experience abroad, awards, an
 
 Work experience
 ======
-* Since 03/2023: Full Professor in Information Systems and human-centric AI
+* Since 03/2023: Full Professor in Information Systems and Human-centric Artificial Intelligence
   * University of Bayreuth
 
 * Since 03/2023: Group Leader "Business Analytics"
