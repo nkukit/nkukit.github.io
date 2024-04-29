@@ -42,6 +42,9 @@ Work experience
   
 Experience abroad
 ======
+
+* 03/2024 Research stay at the University of Texas in Austin, hosted by [Maria De-Arteaga](https://mariadearteaga.com/)
+* 03/2024 Research stay at Carnegie Mellon University, hosted by [Adam Perer](http://perer.org/) and [Katelyn C. Morrison](https://katelyn98.github.io/) 
 * 03/2022 Research stay at the University of Texas in Austin, hosted by [Maria De-Arteaga](https://mariadearteaga.com/)
 * 03/2019 Research stay at the Wharton School of the University of Pennsylvania, hosted by [Steven O. Kimbrough](https://oid.wharton.upenn.edu/profile/sok/#research)
 * 02/2019 Research stay at the MIT-IBM Watson AI Lab, hosted by [John Cohn](https://en.wikipedia.org/wiki/John_Cohn)
