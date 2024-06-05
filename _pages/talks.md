@@ -5,7 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
-- \[Apr '24\] I gave an invited keynote on "Effects of artificial intelligence on humans" at the BZT Annual Conference, covered by the newspaper [Frankenpost (German only)](https://www.dropbox.com/scl/fi/pgkdytamhy8ep1agl74lc/Frankenpost.jpeg?rlkey=9m8154wh5dly3l9ana7raggvp&dl=0)
+- \[May '24\] I gave an interview to ZDF on Google's current AI development, released via [ZDF Heute (German only)](https://lnkd.in/eHB8e2gT)
+- \[May '24\] I gave a [radio interview (German only)](https://lnkd.in/e9dU-YkM) on the AI Alliance and the reasons for UBT to join it to Radio Z
+- \[May '24\] I gave an invited keynote at the [Bavarian State Ministry of Health, Care and Prevention](https://www.stmgp.bayern.de/) as part of the [byte AI Roadshow](https://www.byte.bayern/was-wir-machen/ki-roadshow/programm) on "Fundamentals of AI and Human-AI Collaboration"
+- \[Apr '24\] I gave an invited keynote on "Effects of artificial intelligence on humans" at the [BZT](https://bzt.bayern/) Annual Conference, covered by the newspaper [Frankenpost (German only)](https://www.dropbox.com/scl/fi/pgkdytamhy8ep1agl74lc/Frankenpost.jpeg?rlkey=9m8154wh5dly3l9ana7raggvp&dl=0)
 - \[Mar '24\] I gave an invited lecture on "Impulses on Explainable Artificial Intelligence" at the BASF XAI Workshop
 - \[Mar '24\] I gave an invited talk on "Explanations, Fairness, and Appropriate Reliance in Human-AI Decision-Making" at the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://cmu.edu/), hosted by [Adam Perer](http://perer.org/) 
 - \[Mar '24\] I gave an invited talk on "Human-AI Collaboration and Imperfect XAI" at the [McCombs School of Business](https://mccombs.utexas.edu/) at [The University of Texas at Austin](https://www.utexas.edu/), hosted by [Maria De-Arteaga](https://mariadearteaga.com/) 
