@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+- \[Jun '24\] I gave an invited talk on "Explainable AI" at the IBM GenAI Roundtable in Frankfurt
+- \[Jun '24\] I gave an invited talk on "Explainable AI in Law Enforcement?" at the German Lawyers Day ("Deutscher Anwaltstag 2024")
+- \[Jun '24\] I gave the keynote on "(Gen)AI in the Energy Sector" at the SuedLink/TenneT All Hands Meeting
 - \[May '24\] I gave an interview to ZDF on Google's current AI development, released via [ZDF Heute (German only)](https://lnkd.in/eHB8e2gT)
 - \[May '24\] I gave a [radio interview (German only)](https://lnkd.in/e9dU-YkM) on the AI Alliance and the reasons for UBT to join it to Radio Z
 - \[May '24\] I gave an invited keynote at the [Bavarian State Ministry of Health, Care and Prevention](https://www.stmgp.bayern.de/) as part of the [byte AI Roadshow](https://www.byte.bayern/was-wir-machen/ki-roadshow/programm) on "Fundamentals of AI and Human-AI Collaboration"
