@@ -21,7 +21,8 @@ Reviewer Activities
  * ACM Computing Surveys (CSUR)
  * Information Sciences
  * Operations Research for Health Care (ORHC)
- * AAAI Conference on Artificial Intelligence
+ * Conference on Neural Information Processing Systems (NeurIPS)
+ * AAAI Conference on Artificial Intelligence (AAAI)
  * Human Factors in Computing Systems (CHI)
  * European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) 
  * Schmalenbach Journal of Business Research (SBUR)
@@ -33,6 +34,8 @@ Reviewer Activities
  * IEEE International Conference on Business Informatics (CBI)
  * International Conference on Business Informatics and Information Systems / Internationale Tagung Wirtschaftsinformatik (WI)
  * **European Commission:** European Research Council (ERC)
+ * **Deutsche Forschungsgemeinschaft** (DFG)
+ * **European Science Foundation** (ESF)
 
 Chairing activities
 ======
