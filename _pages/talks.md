@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+- \[Jul '24\] Me and my team gave a lecture on AI for over 700 primary school children, which is [available on Youtube (German only)](https://youtu.be/lkxBAV-L3N4) and was also [covered by TV (German only)](https://www.tvo.de/mediathek/video/kinderuni-bayreuth-die-studenten-von-morgen-erobern-den-vorlesungssaal/)
+- \[Jul '24\] I gave an invited impulse talk on "AI and Human-AI Interaction" at the IHK Bayreuth
 - \[Jun '24\] I gave an invited talk on "Explainable AI" at the IBM GenAI Roundtable in Frankfurt
 - \[Jun '24\] I gave an invited talk on "Explainable AI in Law Enforcement?" at the German Lawyers Day ("Deutscher Anwaltstag 2024")
 - \[Jun '24\] I gave the keynote on "(Gen)AI in the Energy Sector" at the SuedLink/TenneT All Hands Meeting
