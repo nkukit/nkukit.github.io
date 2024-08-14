@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+- \[Aug '24\] Maria De-Arteaga's, Jakob Schoeffer's, and my [article](https://arxiv.org/pdf/2209.11812.pdf) was featured in the [Texas McCombs blog](https://medium.com/texas-mccombs/when-ai-aids-decisions-when-should-humans-override-2805a8698dd5) with the title "When AI Aids Decisions, When Should Humans Override?"
+- \[Jul '24\] I gave an invited seminar at the University of Potsdam on "Explainable AI" for journalists 
+- \[Jul '24\] I gave an invited keynote at the [Bavarian State Ministry of Health, Care and Prevention](https://www.stmgp.bayern.de/) in Nuremberg on "Fundamentals of AI and Human-AI Collaboration"
 - \[Jul '24\] Me and my team gave a lecture on AI for over 700 primary school children, which is [available on Youtube (German only)](https://youtu.be/lkxBAV-L3N4) and was also [covered by TV (German only)](https://www.tvo.de/mediathek/video/kinderuni-bayreuth-die-studenten-von-morgen-erobern-den-vorlesungssaal/)
 - \[Jul '24\] I gave an invited impulse talk on "AI and Human-AI Interaction" at the IHK Bayreuth
 - \[Jun '24\] I gave an invited talk on "Explainable AI" at the IBM GenAI Roundtable in Frankfurt
@@ -12,7 +15,7 @@ author_profile: true
 - \[Jun '24\] I gave the keynote on "(Gen)AI in the Energy Sector" at the SuedLink/TenneT All Hands Meeting
 - \[May '24\] I gave an interview to ZDF on Google's current AI development, released via [ZDF Heute (German only)](https://lnkd.in/eHB8e2gT)
 - \[May '24\] I gave a [radio interview (German only)](https://lnkd.in/e9dU-YkM) on the AI Alliance and the reasons for UBT to join it to Radio Z
-- \[May '24\] I gave an invited keynote at the [Bavarian State Ministry of Health, Care and Prevention](https://www.stmgp.bayern.de/) as part of the [byte AI Roadshow](https://www.byte.bayern/was-wir-machen/ki-roadshow/programm) on "Fundamentals of AI and Human-AI Collaboration"
+- \[May '24\] I gave an invited keynote at the [Bavarian State Ministry of Health, Care and Prevention](https://www.stmgp.bayern.de/) in Munich as part of the [byte AI Roadshow](https://www.byte.bayern/was-wir-machen/ki-roadshow/programm) on "Fundamentals of AI and Human-AI Collaboration"
 - \[Apr '24\] I gave an invited keynote on "Effects of artificial intelligence on humans" at the [BZT](https://bzt.bayern/) Annual Conference, covered by the newspaper [Frankenpost (German only)](https://www.dropbox.com/scl/fi/pgkdytamhy8ep1agl74lc/Frankenpost.jpeg?rlkey=9m8154wh5dly3l9ana7raggvp&dl=0)
 - \[Mar '24\] I gave an invited lecture on "Impulses on Explainable Artificial Intelligence" at the BASF XAI Workshop
 - \[Mar '24\] I gave an invited talk on "Explanations, Fairness, and Appropriate Reliance in Human-AI Decision-Making" at the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://cmu.edu/), hosted by [Adam Perer](http://perer.org/) 
