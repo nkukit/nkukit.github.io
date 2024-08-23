@@ -9,6 +9,7 @@ Here is a selected overview of my community services, including reviewer activit
 Reviewer Activities 
 ======
 
+ * Nature Communications
  * Management Information Systems Quarterly (MISQ)
  * Information Systems Journal (ISJ)
  * European Journal of Information Systems (EJIS)
