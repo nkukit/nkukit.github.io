@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+- \[Sep '24\] I gave an invited keynote at [Co-Creating Tomorrow: A Workshop on Human-AI Collaboration](https://econtribute.de/event/co-creating-tomorrow-a-workshop-on-human-ai-collaboration/) in Cologne on "Human-AI Collaboration: Thoughts and Impulses"
+- \[Sep '24\] I gave an invited keynote at the BZT event on [Digitalization in tourism: Artificial intelligence as the key to more quality (German only)](https://bzt.bayern/digitalisierung-tourismus-ki-qualitaet/) in Nuremberg
 - \[Aug '24\] [Maria De-Arteaga](https://mariadearteaga.com/)'s, [Jakob Schoeffer](https://jakobschoeffer.github.io/)'s, and my [article](https://arxiv.org/pdf/2209.11812.pdf) was featured in the [Texas McCombs blog](https://medium.com/texas-mccombs/when-ai-aids-decisions-when-should-humans-override-2805a8698dd5) with the title "When AI Aids Decisions, When Should Humans Override?"
 - \[Jul '24\] The [Bayreuth Magazine (German only)](https://issuu.com/gmkbayreuth/docs/bt_magazin_2024_web_ok/120) did a feature on [Christian Rückert](https://www.strafrecht2.uni-bayreuth.de/de/team/Prof_-Dr_-Christian-Rueckert/index.php)'s and my work on AI at the interface of law and technology.
 - \[Jul '24\] I gave an invited seminar at the University of Potsdam on "Explainable AI" for journalists 
