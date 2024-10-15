@@ -11,7 +11,7 @@ Here is a selected overview of my teaching portfolio and experience.
 
 Teaching at the University of Bayreuth
 ======
-* Applied Artificial Intelligence 
+* [Applied Artificial Intelligence](https://github.com/nkukit/aai) 
 * Human-AI Collaboration 
 * Fairness in AI 
 * Fundamentals of Information Systems 
@@ -19,7 +19,7 @@ Teaching at the University of Bayreuth
 
 Teaching at the Technical University of Munich
 ======
-* Applied Artificial Intelligence, TUM School of Management 
+* [Applied Artificial Intelligence](https://github.com/nkukit/aai), TUM School of Management 
 
 Teaching at Karlsruhe Institute of Technology
 ======
