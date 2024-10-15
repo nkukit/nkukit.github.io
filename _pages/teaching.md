@@ -15,8 +15,11 @@ Teaching at the University of Bayreuth
 * Human-AI Collaboration 
 * Fairness in AI 
 * Fundamentals of Information Systems 
-* Digital Financial Reporting 
+* Digital Financial Reporting
 
+Teaching at the Technical University of Munich
+======
+* Applied Artificial Intelligence, TUM School of Management 
 
 Teaching at Karlsruhe Institute of Technology
 ======
