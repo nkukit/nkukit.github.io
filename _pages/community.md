@@ -54,6 +54,7 @@ Chairing activities
 Hosting activities
 ======
 
+- \[Jan '25\] [Jakob Schoeffer](https://jakobschoeffer.github.io/), UT Austin
 - \[Feb '23\] [Christian Haas](https://bach.wu.ac.at/d/research/ma/18957/), WU Vienna, with his talk on "Computational (Re-)Districting – An Algorithmic Approach to Addressing Policy Questions"
 - \[Dec '22\] [Hilde Kühne](https://hildekuehne.github.io/), Goethe University Frankfurt, with her talk on "Multimodal Embedding Spaces for Video Understanding"
 - \[Sep '22\] [Ganna Pogrebna](https://www.gannapogrebna.com/), Artificial Intelligence and Cyber Futures Institute at Charles Sturt University, with her talk on "Behavioural Data Science"
