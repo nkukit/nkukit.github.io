@@ -13,6 +13,9 @@ Here is a selected overview of my work experience, experience abroad, awards, an
 
 Work experience
 ======
+* Since 10/2024: Guest Lecturer "Applied Artificial Intelligence"
+  * Technical University Munich
+    
 * Since 03/2023: Full Professor in Information Systems and Human-centric Artificial Intelligence
   * University of Bayreuth
 
