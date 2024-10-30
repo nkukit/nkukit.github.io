@@ -21,4 +21,5 @@ If you are interested in working with me, please feel free to contact me. If you
 * [Teaching portfolio](/teaching)
 * [Community Services](/community)
 * [CV and Honors](/cv)
-* [My random, incomplete learnings on how-to-write papers](https://github.com/nkukit/howtopaper)
+* [My how-to-write papers: howtopaper.xyz](www.howtopaper.xyz)
+* [My open access Applied AI course](https://github.com/nkukit/aai)
