@@ -22,4 +22,4 @@ If you are interested in working with me, please feel free to contact me. If you
 * [Community Services](/community)
 * [CV and Honors](/cv)
 * [My how-to-write papers: howtopaper.xyz](www.howtopaper.xyz)
-* [My open access Applied AI course](https://github.com/nkukit/aai)
+* [My open access Applied AI course: appliedaicourse.xyz](www.appliedaicourse.xyz)
