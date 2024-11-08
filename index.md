@@ -21,5 +21,5 @@ If you are interested in working with me, please feel free to contact me. If you
 * [Teaching portfolio](/teaching)
 * [Community Services](/community)
 * [CV and Honors](/cv)
-* [My how-to-write papers: howtopaper.xyz](www.howtopaper.xyz)
-* [My open access Applied AI course: appliedaicourse.xyz](www.appliedaicourse.xyz)
+* [My how-to-write papers: howtopaper.xyz](http://www.howtopaper.xyz)
+* [My open access Applied AI course: appliedaicourse.xyz](http://www.appliedaicourse.xyz)
