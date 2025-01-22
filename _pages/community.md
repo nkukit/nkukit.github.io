@@ -21,6 +21,7 @@ Reviewer Activities
  * Electronic Markets (EM)
  * ACM Computing Surveys (CSUR)
  * Information Sciences
+ * Journal of Business Analytics
  * Operations Research for Health Care (ORHC)
  * Conference on Neural Information Processing Systems (NeurIPS)
  * AAAI Conference on Artificial Intelligence (AAAI)
