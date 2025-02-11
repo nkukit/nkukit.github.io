@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+- \[Jan '25\] UBT Press reported on our new project [For the Greater Good? Deepfakes in Law Enforcement (FoGG)](https://www.uni-bayreuth.de/en/press-release/research-deepfakes-law-enforcement), funded by the BIDT
+- \[Jan '25\] UBT Press reported on our new project [FAIRLEA – AI for Law Enforcement](https://www.uni-bayreuth.de/en/press-release/vw-foundation-funding-bayreuth), funded by the Volkswagen Foundation
+- \[Nov '24\] I gave the keynote at the Advisory board meeting at Bausparkasse Schwäbisch Hall 
+- \[Oct '24\] I gave a talk on [Fairness Benefits of Explainable AI](https://facctconference.org/static/papers24/facct24-105.pdf) at the [AISoLa conference](https://2024-isola.isola-conference.org/aisola-tracks/)
 - \[Sep '24\] I gave an invited keynote at [Co-Creating Tomorrow: A Workshop on Human-AI Collaboration](https://econtribute.de/event/co-creating-tomorrow-a-workshop-on-human-ai-collaboration/) in Cologne on "Human-AI Collaboration: Thoughts and Impulses"
 - \[Sep '24\] I gave an invited keynote at the BZT event on [Digitalization in tourism: Artificial intelligence as the key to more quality (German only)](https://bzt.bayern/digitalisierung-tourismus-ki-qualitaet/) in Nuremberg
 - \[Aug '24\] [Maria De-Arteaga](https://mariadearteaga.com/)'s, [Jakob Schoeffer](https://jakobschoeffer.github.io/)'s, and my [article](https://arxiv.org/pdf/2209.11812.pdf) was featured in the [Texas McCombs blog](https://medium.com/texas-mccombs/when-ai-aids-decisions-when-should-humans-override-2805a8698dd5) with the title "When AI Aids Decisions, When Should Humans Override?"
