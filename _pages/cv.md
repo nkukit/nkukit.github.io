@@ -61,6 +61,7 @@ Scientific Advisory
 
 Awards and Honors
 ======
+* ACM CHI Honorable Mention 2024
 * HHAI Best Full Paper Award 2023
 * ACM IUI Best Paper Award 2023
 * IBM Consulting Technical Award 2023
