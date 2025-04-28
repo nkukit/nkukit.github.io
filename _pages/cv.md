@@ -72,7 +72,7 @@ Awards and Honors
 
 Founding experience
 ======
-* Since 2023: EXIST-Mentor of [Teamful](https://www.teamful.de/)
+* 2023-2025: EXIST-Mentor of [Teamful](https://www.uni-bayreuth.de/en/press-releases/exist-for-teamful)
 * Since 2020: Mentor of [femfeel](https://www.femfeel.de/)
 * 2018: Co-Founder of kalytics (later developed into [prenode](https://www.prenode.de/)) 
 * 2015-2021: Co-Founder and Executive Board Member of [Education for Refugees e.V.](https://www.eduref.eu/)
