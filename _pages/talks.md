@@ -4,7 +4,7 @@ title: "Selected Talks & Media"
 permalink: /talks/
 author_profile: true
 ---
-
+- \[Jan '25\] German radio ([BR/tagesschau](https://www.tagesschau.de/inland/regional/bayern/br-ki-in-der-strafverfolgung-darf-der-staat-identitaeten-stehlen-102.html)) and TV ([BR](https://www.ardmediathek.de/video/br24/forschungsprojekt-deepfakes-in-der-strafverfolgung/br/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDE4MDE5QTAvc2VjdGlvbi9jMzJiYzNiNy0yMmIzLTQyZmUtYTNiOC1mM2I3NmQ5ZTQwZDU), [Frankenschau](https://www.ardmediathek.de/video/frankenschau-aktuell/deepfakes-in-der-strafverfolgung/br/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDEyMjY2QTAvc2VjdGlvbi9lZWFlZDU5Ny1iNzIxLTRhZGQtODc0NC0yYThhODRkNzQwMmM), [TVO](https://www.tvo.de/mediathek/video/oberfranken-aktuell-vom-24-april-2025/)) reported on our new project [For the Greater Good? Deepfakes in Law Enforcement (FoGG)](https://www.uni-bayreuth.de/en/press-release/research-deepfakes-law-enforcement)
 - \[Jan '25\] UBT Press reported on our new project [For the Greater Good? Deepfakes in Law Enforcement (FoGG)](https://www.uni-bayreuth.de/en/press-release/research-deepfakes-law-enforcement), funded by the BIDT
 - \[Jan '25\] UBT Press reported on our new project [FAIRLEA – AI for Law Enforcement](https://www.uni-bayreuth.de/en/press-release/vw-foundation-funding-bayreuth), funded by the Volkswagen Foundation
 - \[Nov '24\] I gave the keynote at the Advisory board meeting at Bausparkasse Schwäbisch Hall 
