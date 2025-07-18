@@ -23,7 +23,7 @@ Teaching at the Technical University of Munich
 
 Teaching at Karlsruhe Institute of Technology
 ======
-* Artificial Intelligence in Service Systems (WS18/19 - WS23/24)
+* Artificial Intelligence in Service Systems (WS18/19 - WS24/25)
 * Service Design Thinking (WS18/19)
 * Service Analytics A (SS17 - SS18)
 * Foundations of Digital Services (SS15 - SS22)
