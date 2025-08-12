@@ -17,9 +17,9 @@ I aim to explore these principles further and communicate them to students, indu
 If you are interested in working with me, please feel free to contact me. If you'd like to learn more, please explore the links below:
 
 * [My publications ordered by citations (Google Scholar)](https://scholar.google.de/citations?user=79KpdDQAAAAJ) 
-* [Selected Talks](/talks)
+* [Selected Talks & Media](/talks)
 * [Teaching portfolio](/teaching)
 * [Community Services](/community)
 * [CV and Honors](/cv)
-* [My how-to-write papers repo: howtopaper.xyz](http://www.howtopaper.xyz)
-* [My open access Applied AI course: appliedaicourse.xyz](http://www.appliedaicourse.xyz)
+* [My how-to-write papers guide: howtopaper.xyz](http://www.howtopaper.xyz)
+* [My open-access Applied AI course: appliedaicourse.xyz](http://www.appliedaicourse.xyz)
