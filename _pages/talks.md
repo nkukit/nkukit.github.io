@@ -4,6 +4,8 @@ title: "Selected Talks & Media"
 permalink: /talks/
 author_profile: true
 ---
+
+- \[Jul '25\] The German Newspaper [Nordkurier](https://github.com/nkukit/nkukit.github.io/blob/master/PDFs/Nordbayerischer_Kurier_KI_Wahlen.pdf) reported on our work on [utilizing LLMs for political surveys](https://arxiv.org/pdf/2502.16280?)   
 - \[Apr '25\] German radio ([BR/tagesschau](https://www.tagesschau.de/inland/regional/bayern/br-ki-in-der-strafverfolgung-darf-der-staat-identitaeten-stehlen-102.html)) and TV ([BR](https://www.ardmediathek.de/video/br24/forschungsprojekt-deepfakes-in-der-strafverfolgung/br/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDE4MDE5QTAvc2VjdGlvbi9jMzJiYzNiNy0yMmIzLTQyZmUtYTNiOC1mM2I3NmQ5ZTQwZDU), [Frankenschau](https://www.ardmediathek.de/video/frankenschau-aktuell/deepfakes-in-der-strafverfolgung/br/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDEyMjY2QTAvc2VjdGlvbi9lZWFlZDU5Ny1iNzIxLTRhZGQtODc0NC0yYThhODRkNzQwMmM), [TVO](https://www.tvo.de/mediathek/video/oberfranken-aktuell-vom-24-april-2025/)) reported on our new project [For the Greater Good? Deepfakes in Law Enforcement (FoGG)](https://www.uni-bayreuth.de/en/press-release/research-deepfakes-law-enforcement)
 - \[Jan '25\] UBT Press reported on our new project [For the Greater Good? Deepfakes in Law Enforcement (FoGG)](https://www.uni-bayreuth.de/en/press-release/research-deepfakes-law-enforcement), funded by the BIDT
 - \[Jan '25\] UBT Press reported on our new project [FAIRLEA – AI for Law Enforcement](https://www.uni-bayreuth.de/en/press-release/vw-foundation-funding-bayreuth), funded by the Volkswagen Foundation
@@ -15,7 +17,7 @@ author_profile: true
 - \[Jul '24\] The [Bayreuth Magazine (German only)](https://issuu.com/gmkbayreuth/docs/bt_magazin_2024_web_ok/120) did a feature on [Christian Rückert](https://www.strafrecht2.uni-bayreuth.de/de/team/Prof_-Dr_-Christian-Rueckert/index.php)'s and my work on AI at the interface of law and technology.
 - \[Jul '24\] I gave an invited seminar at the University of Potsdam on "Explainable AI" for journalists 
 - \[Jul '24\] I gave an invited keynote at the [Bavarian State Ministry of Health, Care and Prevention](https://www.stmgp.bayern.de/) in Nuremberg on "Fundamentals of AI and Human-AI Collaboration"
-- \[Jul '24\] Me and my team gave a lecture on AI for over 700 primary school children, which is [available on Youtube (German only)](https://youtu.be/lkxBAV-L3N4) and was also [covered by TV (German only)](https://www.tvo.de/mediathek/video/kinderuni-bayreuth-die-studenten-von-morgen-erobern-den-vorlesungssaal/)
+- \[Jul '24\] My team and I gave a lecture on AI for over 700 primary school children, which is [available on Youtube (German only)](https://youtu.be/lkxBAV-L3N4) and was also [covered by TV (German only)](https://www.tvo.de/mediathek/video/kinderuni-bayreuth-die-studenten-von-morgen-erobern-den-vorlesungssaal/)
 - \[Jul '24\] I gave an invited impulse talk on "AI and Human-AI Interaction" at the IHK Bayreuth
 - \[Jun '24\] I gave an invited talk on "Explainable AI" at the IBM GenAI Roundtable in Frankfurt
 - \[Jun '24\] I gave an invited talk on "Explainable AI in Law Enforcement?" at the German Lawyers Day ("Deutscher Anwaltstag 2024")
