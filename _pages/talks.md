@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
+- \[Oct '25\] The German Newspaper [Bayrischer Kurier interviewed](https://github.com/nkukit/nkukit.github.io/blob/master/PDFs/Nordbayrischer_Kurier_KI_Vera%CC%88nderung.pdf) me on current AI trends and cognitive offloading (German only)
 - \[Oct '25\] The German radio Station [Bremen Zwei interviewed me (German only)](https://www.dropbox.com/scl/fi/bzar4s8hozy7h08c9g7wp/BremenZwei_Kuehl_Chatbots_Meinungsfreiheit.mp3?rlkey=tnkwxgci991ao6ul1ydqopbjn&dl=0) on the topic of opinion diversity in modern large language models with relations to our work on [utilizing LLMs for political surveys](https://arxiv.org/pdf/2502.16280?) 
 - \[Aug '25\] The German Newspaper [Nordkurier interviewed](https://github.com/nkukit/nkukit.github.io/blob/master/PDFs/Nordbayerischer_Kurier_KI_Wahlen.pdf) [Christian Rückert](https://www.strafrecht2.uni-bayreuth.de/de/team/Prof_-Dr_-Christian-Rueckert/index.php) and me on our project [For the Greater Good? Deepfakes in Law Enforcement (FoGG)](https://fogg-projekt.de/) (German only)
 - \[Jul '25\] The German Newspaper [Nordkurier interviewed me (German only)](https://github.com/nkukit/nkukit.github.io/blob/master/PDFs/Nordbayerischer_Kurier_KI_Wahlen.pdf) and reported on our work on [utilizing LLMs for political surveys](https://arxiv.org/pdf/2502.16280?) 
