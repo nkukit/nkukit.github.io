@@ -58,8 +58,8 @@ Experience abroad
 
 Scientific Advisory & Roles
 ======
-* ELLIS Member
-* Appointed expert in the Committee for Science and the Arts in the Bavarian State Parliament on the topic of "Opportunities and Risks of AI in the Science Sector"
+* [ELLIS Member](https://ellis.eu/person/niklas-kuhl)
+* Appointed expert in the Committee for Science and the Arts in the Bavarian State Parliament on the topic of ["Opportunities and Risks of AI in the Science Sector](https://www.bayern.landtag.de/aktuelles/aus-den-ausschuessen/wissenschaftsausschuss-anhoerung-chancen-und-risiken-von-ki-im-wissenschaftsbetrieb/)
 * Dagstuhl Seminar [24342](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24342)
 * Dagstuhl Seminar [26302](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/26302)
 
