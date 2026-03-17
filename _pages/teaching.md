@@ -36,3 +36,21 @@ Teaching at Hector Business School (Executives)
 ======
 * Digital Service Module (2020 - 2023)
   
+Supervision of PhDs
+======
+* [Robin Hirt](https://de.linkedin.com/in/robinhirt/en)
+* [Clemens Wolff](https://de.linkedin.com/in/clemens-wolff-9b4422111)
+* [Michael Vössing](https://dsi.win.kit.edu/team_voessing.php)
+* [Lucas Baier](https://de.linkedin.com/in/lucas-baier)
+* [Dominik Martin](https://de.linkedin.com/in/dominik-martin)
+* [Jannis Walk](https://de.linkedin.com/in/janniswalk)
+* [Jakob Schöffer](https://jakobschoeffer.github.io/)
+* [Max Schemmer](https://www.linkedin.com/in/max-schemmer/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3B4xAvDgioT1uSP9LL5TNx5Q%3D%3D)
+* [Philipp Spitzer](https://philippspitzer.github.io/aboutme/)
+* [Domenique Zipperling](https://www.fim-rc.de/wiss_mitarbeitende/domenique-zipperling/)
+* [Luca Deck](https://lucad98.github.io/)
+* [Simeon Allmendinger](https://www.fim-rc.de/wiss_mitarbeitende/simeon-allmendinger/)
+* [Lars Böcking](https://www.fim-rc.de/wiss_mitarbeitende/lars-boecking/)
+* [Leopold Müller](https://www.researchgate.net/profile/Leopold-Mueller-2)
+* [Victor Kolominsky-Rabas](https://www.fim-rc.de/wiss_mitarbeitende/victor-kolominsky-rabas/)
+* [Anton Hummel](https://de.linkedin.com/in/anton-hummel)
