@@ -46,6 +46,7 @@ Work experience
 Experience abroad
 ======
 
+* 10/2025 Research stay at the ESADE Business School Barcelona, hosted by [Maria De-Arteaga](https://mariadearteaga.com/)
 * 03/2024 Research stay at the University of Texas in Austin, hosted by [Maria De-Arteaga](https://mariadearteaga.com/)
 * 03/2024 Research stay at Carnegie Mellon University, hosted by [Adam Perer](http://perer.org/) and [Katelyn C. Morrison](https://katelyn98.github.io/) 
 * 03/2022 Research stay at the University of Texas in Austin, hosted by [Maria De-Arteaga](https://mariadearteaga.com/)
@@ -58,7 +59,9 @@ Experience abroad
 Scientific Advisory & Roles
 ======
 * ELLIS Member
-* Appointed expert in the Committee for Science and the Arts in the Bavarian State Parliament on the topic of "Opportunities and Risks of AI in the Science Sector".
+* Appointed expert in the Committee for Science and the Arts in the Bavarian State Parliament on the topic of "Opportunities and Risks of AI in the Science Sector"
+* Dagstuhl Seminar [24342](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24342)
+* Dagstuhl Seminar [26302](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/26302)
 
 Awards and Honors
 ======
