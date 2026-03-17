@@ -9,6 +9,10 @@ Here is a selected overview of my community services, including reviewer activit
 Reviewer Activities 
 ======
 
+ * Conference on Neural Information Processing Systems (NeurIPS)
+ * International Conference on Machine Learning (ICML)
+ * AAAI Conference on Artificial Intelligence (AAAI)
+ * Human Factors in Computing Systems (CHI)
  * Nature Communications
  * Management Information Systems Quarterly (MISQ)
  * Information Systems Journal (ISJ)
@@ -23,9 +27,6 @@ Reviewer Activities
  * Information Sciences
  * Journal of Business Analytics
  * Operations Research for Health Care (ORHC)
- * Conference on Neural Information Processing Systems (NeurIPS)
- * AAAI Conference on Artificial Intelligence (AAAI)
- * Human Factors in Computing Systems (CHI)
  * European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) 
  * Schmalenbach Journal of Business Research (SBUR)
  * Technological Forecasting & Social Change (TFS)
