@@ -40,6 +40,7 @@ Reviewer Activities
  * **Deutsche Forschungsgemeinschaft** (DFG)
  * **European Science Foundation** (ESF)
  * **Volkswagen Stiftung** (VWS)
+ * **Studienstiftung des deutschen Volkes** 
 
 Chairing activities
 ======
