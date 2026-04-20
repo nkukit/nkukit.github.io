@@ -60,11 +60,12 @@ Scientific Advisory & Roles
 ======
 * [ELLIS Member](https://ellis.eu/person/niklas-kuhl)
 * Appointed expert in the Committee for Science and the Arts in the Bavarian State Parliament on the topic of ["Opportunities and Risks of AI in the Science Sector](https://www.bayern.landtag.de/aktuelles/aus-den-ausschuessen/wissenschaftsausschuss-anhoerung-chancen-und-risiken-von-ki-im-wissenschaftsbetrieb/)
-* Dagstuhl Seminar [24342](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24342)
-* Dagstuhl Seminar [26302](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/26302)
+* Participant at the Dagstuhl Seminar [24342](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24342)
+* Participant at the Dagstuhl Seminar [26302](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/26302)
 
 Awards and Honors
 ======
+* ACM TiiS Best Paper Award 2025
 * ACM CHI Honorable Mention 2024
 * Wirtschaftswoche German ["40-under-40"-economists](https://github.com/nkukit/nkukit.github.io/blob/master/PDFs/Wirtschaftswoche40u40.png) 2024
 * HHAI Best Full Paper Award 2023
