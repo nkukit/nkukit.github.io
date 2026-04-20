@@ -4,7 +4,7 @@ title: "Selected Talks & Media"
 permalink: /talks/
 author_profile: true
 ---
-
+- \[Apr '26\] I gave the keynote at the "KI-Zukunftstag Nordbayern" (AI Futureday North Bavaria) on the current state of AI, covered in the German newspaper [Nordkurier](https://github.com/nkukit/nkukit.github.io/blob/master/PDFs/KI-Forum.pdf)
 - \[Dec '25\] I was interviewed for the [FIM 2025 Yearbook](https://github.com/nkukit/nkukit.github.io/blob/fc62e6cd532e6e30a73e325b38ce4121dbd47356/PDFs/FIM%20Yearbook%202025.pdf)
 - \[Dec '25\] The Customer Focus Network interviewed me in their [Business Rap Format (German only)](https://customerfocus.network/niklas-kuehl-business-rap/)
 - \[Oct '25\] The German Newspaper [Bayrischer Kurier interviewed](https://github.com/nkukit/nkukit.github.io/blob/master/PDFs/Nordbayrischer_Kurier_KI_Vera%CC%88nderung.pdf) me on current AI trends and cognitive offloading (German only)
