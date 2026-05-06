@@ -4,6 +4,7 @@ title: "Selected Talks & Media"
 permalink: /talks/
 author_profile: true
 ---
+- \[May '26\] Our ACM TiiS Best-Paper-award-winning article on [Imperfections of XAI](https://dl.acm.org/doi/10.1145/3750052) was featured in the [ACM Impact Report #6](https://www.linkedin.com/pulse/issue-6-impact-report-acmdl-jqjoe)
 - \[Apr '26\] I gave the keynote at the "KI-Zukunftstag Nordbayern" (AI Futureday North Bavaria) on the current state of AI, covered in the German newspaper [Nordkurier](https://github.com/nkukit/nkukit.github.io/blob/master/PDFs/KI-Forum.pdf)
 - \[Dec '25\] I was interviewed for the [FIM 2025 Yearbook](https://github.com/nkukit/nkukit.github.io/blob/fc62e6cd532e6e30a73e325b38ce4121dbd47356/PDFs/FIM%20Yearbook%202025.pdf)
 - \[Dec '25\] The Customer Focus Network interviewed me in their [Business Rap Format (German only)](https://customerfocus.network/niklas-kuehl-business-rap/)
