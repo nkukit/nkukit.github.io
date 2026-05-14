@@ -65,6 +65,7 @@ Scientific Advisory & Roles
 
 Awards and Honors
 ======
+* ICML 2026 Gold Reviewer Award
 * ACM TiiS Best Paper Award 2025
 * ACM CHI Honorable Mention 2024
 * Wirtschaftswoche German ["40-under-40"-economists](https://github.com/nkukit/nkukit.github.io/blob/master/PDFs/Wirtschaftswoche40u40.png) 2024
