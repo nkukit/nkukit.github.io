@@ -6,7 +6,7 @@ author_profile: true
 
 Hi there, I'm Niklas!
 
-I'm a Full Professor of Information Systems and Human-Centric Artificial Intelligence at the University of Bayreuth. I also lead a research group at Fraunhofer FIT, direct the Research Center Finance & Information Management (FIM), serve as Senior Expert AI at IBM, lecture at the Technical University of Munich (TUM), and direct the AI Responsibility Centre (ARC) — bridging academic research with applied work across institutions and industry.
+I'm a Full Professor of Information Systems and Human-Centric Artificial Intelligence at the University of Bayreuth. I also lead a research group at Fraunhofer FIT, direct the Research Center Finance & Information Management (FIM), serve as Senior Expert AI at IBM, lecture at the Technical University of Munich (TUM), and direct the AI Responsibility Centre (ARC) — bridging academic research with applied work across institutions and industry; and with prior practical experience as a Managing Consultant in Data Science.
 
 My research sits at the interface of machine learning and human-centric design. I believe that inventive AI applications — and their successful, fair, and robust adoption — require both a deep technical understanding of ML methods and a serious engagement with how people actually work with these systems. Treating either side as an afterthought tends to produce technology that fails in the field, even when it looks good on a benchmark.
 
