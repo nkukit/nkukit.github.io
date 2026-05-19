@@ -6,15 +6,20 @@ author_profile: true
 
 Hi there, I'm Niklas!
 
-I'm a Full Professor of Information Systems and Human-Centric Artificial Intelligence at the University of Bayreuth. I am also a Group Leader at the IS branch of the Fraunhofer FIT, Director at the Research Center Finance & Information Management (FIM), Senior Expert AI at IBM, and an Associated Researcher at the KIT. In addition to my academic background, I have practical experience as a Managing Consultant in Data Science at IBM. 
+I'm a Full Professor of Information Systems and Human-Centric Artificial Intelligence at the University of Bayreuth. I also lead a research group at Fraunhofer FIT, direct the Research Center Finance & Information Management (FIM), serve as Senior Expert AI at IBM, lecture at the Technical University of Munich (TUM), and direct the AI Responsibility Centre (ARC) — bridging academic research with applied work across institutions and industry.
 
-The focus of my research is on human-centric artificial intelligence. I strongly believe two core competencies are necessary for inventive AI applications and their successful, fair, and robust adaptation in the market: The technology perspective (deep knowledge of machine learning methods) and the human perspective (deep knowledge of human-centric design methods). 
+My research sits at the interface of machine learning and human-centric design. I believe that inventive AI applications — and their successful, fair, and robust adoption — require both a deep technical understanding of ML methods and a serious engagement with how people actually work with these systems. Treating either side as an afterthought tends to produce technology that fails in the field, even when it looks good on a benchmark.
 
-Only in their interdisciplinary combination in developing socio-technical systems can they unfold their full potential and provide benefits in later applications. This interplay also reveals important research avenues that need to be further explored. For me, these currently include human-AI teamwork, appropriate reliance on AI decisions, fairness in AI decision-making, and societal implications and benefits of AI. 
+Concretely, my current work focuses on:
 
-I aim to explore these principles further and communicate them to students, industry, and society.
+* **Appropriate reliance on AI** — when people should rely on AI decisions, when they shouldn't, and how expertise, interfaces, and explanations shape that judgment.
+* **Human-AI complementarity** — designing teamwork between humans and AI systems so that the combination outperforms either alone, particularly in high-stakes domains like medicine.
+* **Explainable AI in practice** — moving beyond generic XAI methods toward explanations that actually support the decisions clinicians, analysts, and other domain experts need to make.
+* **Fairness and societal implications** — examining how AI systems distribute benefits and harms, and what responsible deployment requires.
 
-If you are interested in working with me, please feel free to contact me. If you'd like to learn more, please explore the links below:
+I aim to develop these themes further and communicate them to students, industry, and society.
+
+If you're interested in working with me, please feel free to get in touch. To learn more, explore the links below:
 
 * [My publications ordered by citations (Google Scholar)](https://scholar.google.de/citations?user=79KpdDQAAAAJ) 
 * [Selected Talks & Media](/talks)
