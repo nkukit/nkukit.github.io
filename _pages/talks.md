@@ -4,7 +4,7 @@ title: "Selected Talks & Media"
 permalink: /talks/
 author_profile: true
 ---
-
+- \[June '26\] I gave the keynote on "AI and Agentic AI" at the [ITHM Summer Summit 2026](https://www.insurtech-munich.com/en/event/ithm-summer-summit-2026/) at Google Munich
 - \[May '26\] I participated in the panel discussion on [AI and the job market](https://ubt-career.de/de/events/detail/?id=141082f9-084a-f111-9b5b-c1582e74b019) at the University of Bayreuth
 - \[May '26\] Our ACM TiiS Best-Paper-award-winning article on [Imperfections of XAI](https://dl.acm.org/doi/10.1145/3750052) was featured in the [ACM Impact Report #6](https://www.linkedin.com/pulse/issue-6-impact-report-acmdl-jqjoe)
 - \[Apr '26\] I gave the keynote at the "KI-Zukunftstag Nordbayern" (AI Futureday North Bavaria) on the current state of AI, covered in the German newspaper [Nordkurier](https://github.com/nkukit/nkukit.github.io/blob/master/PDFs/KI-Forum.pdf)
