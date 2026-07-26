@@ -13,7 +13,7 @@ Here is a selected overview of my work experience, experience abroad, awards, an
 
 Work experience
 ======
-* Since 10/2024: Guest Lecturer "Applied Artificial Intelligence"
+* Since 10/2024: Lecturer "Applied Artificial Intelligence"
   * TUM School of Management, Technical University Munich
     
 * Since 03/2023: Full Professor in Information Systems and Human-centric Artificial Intelligence
@@ -54,14 +54,14 @@ Experience abroad
 * 02/2019 Research stay at the MIT-IBM Watson AI Lab, hosted by [John Cohn](https://en.wikipedia.org/wiki/John_Cohn)
 * 12/2018 Research stay at the University of Auckland, hosted by [Tava Olsen](https://www.exec.auckland.ac.nz/programmes-and-courses-for-individuals/short-courses/presenter/?presenter=31363-tava-olsen)
 * 11/2016 Research stay at the University of Warwick, hosted by [Irene C L Ng](https://ireneng.com/)
-* 2012, Internship Porsche Business Services, Chicago
+* 2012, Internship at Porsche Business Services, Chicago
 
 Scientific Advisory & Roles
 ======
 * [ELLIS Member](https://ellis.eu/person/niklas-kuhl), part of the [ELLIS Franconia Unit](https://ellis.eu/research/sites/unit-franconia)
 * Appointed expert in the Committee for Science and the Arts in the Bavarian State Parliament on the topic of ["Opportunities and Risks of AI in the Science Sector](https://www.bayern.landtag.de/aktuelles/aus-den-ausschuessen/wissenschaftsausschuss-anhoerung-chancen-und-risiken-von-ki-im-wissenschaftsbetrieb/)
-* Participant at the Dagstuhl Seminar [24342](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24342)
-* Participant at the Dagstuhl Seminar [26302](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/26302)
+* Participant at the Dagstuhl Seminar [24342](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24342): ''Leveraging AI for Management Decision-Making'' 
+* Participant at the Dagstuhl Seminar [26302](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/26302): ''AI Governance: Supporting Compliance Across Phases and Roles'' 
 
 Awards and Honors
 ======
