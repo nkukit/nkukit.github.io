@@ -4,6 +4,9 @@ title: "Selected Talks & Media"
 permalink: /talks/
 author_profile: true
 ---
+
+- \[July '26\] I gave an interview to [Unternehmerland](https://unternehmerland.com/die-frage-lautet-nicht-mehr-ob-ki-sondern-wo-wir-sinnvoll-anfangen/) on AI applications in industry and our [Fraunhofer Forschungscampus Twin Transformation](https://www.twin-transformation.fraunhofer.de/) (German only)
+- \[July '26\] I gave an interview to [Frankenpost](https://github.com/nkukit/nkukit.github.io/blob/master/PDFs/Frankenpost_KI_26.pdf) on the recent attacks of OpenAI's agents on the HuggingFace infrastructure (German). 
 - \[June '26\] I gave the keynote on "AI and Agentic AI" at the [ITHM Summer Summit 2026](https://www.insurtech-munich.com/en/event/ithm-summer-summit-2026/) at Google Munich
 - \[May '26\] I participated in the panel discussion on [AI and the job market](https://ubt-career.de/de/events/detail/?id=141082f9-084a-f111-9b5b-c1582e74b019) at the University of Bayreuth
 - \[May '26\] Our ACM TiiS Best-Paper-award-winning article on [Imperfections of XAI](https://dl.acm.org/doi/10.1145/3750052) was featured in the [ACM Impact Report #6](https://www.linkedin.com/pulse/issue-6-impact-report-acmdl-jqjoe)
