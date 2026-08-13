@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
+- \[Aug '26\] I gave an interview to rnd (RedaktionsNetzwerk Deutschland) on [trusting AI (in German)](https://www.rnd.de/politik/koennen-wir-ki-vertrauen-bayreuther-professor-niklas-kuehl-erklaert-worauf-es-ankommt-AEV2HPEXZRASXDVMMZ3X4IQXRM.html) and our new [AI Responsibility Centre (ARC)](https://ai-responsibility-centre.eu/#/).
 - \[Aug '26\] We launched the [AI Responsibility Centre (ARC)](https://ai-responsibility-centre.eu/#/) with coverage from the University of Bayreuth ([German](https://www.uni-bayreuth.de/pressemitteilung/ARC), [English](https://www.uni-bayreuth.de/press-release/ARC)), [DIE ZEIT](https://www.zeit.de/news/2026-08/04/so-will-die-uni-bayreuth-die-ki-zaehmen), [Süddeutsche Zeitung](https://www.sueddeutsche.de/bayern/neues-forschungszentrum-so-will-die-uni-bayreuth-die-ki-zaehmen-dpa.urn-newsml-dpa-com-20090101-260804-930-482153), [Forschung und Lehre](https://www.forschung-und-lehre.de/forschung/forschungszentrum-fuer-kuenstliche-intelligenz-gegruendet-7829) and more.
 - \[Jul '26\] I gave an interview to [Unternehmerland](https://unternehmerland.com/die-frage-lautet-nicht-mehr-ob-ki-sondern-wo-wir-sinnvoll-anfangen/) on AI applications in industry and our [Fraunhofer Forschungscampus Twin Transformation](https://www.twin-transformation.fraunhofer.de/) (German only)
 - \[Jul '26\] I gave an interview to [Frankenpost](https://github.com/nkukit/nkukit.github.io/blob/master/PDFs/Frankenpost_KI_26.pdf) on the recent attacks of OpenAI's agents on the HuggingFace infrastructure (German). 
