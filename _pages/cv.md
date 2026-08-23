@@ -84,6 +84,17 @@ Founding experience
 * 2018: Co-Founder of kalytics (later developed into [prenode](https://www.prenode.de/)) 
 * 2015-2021: Co-Founder and Executive Board Member of [Education for Refugees e.V.](https://www.eduref.eu/)
 
+Memberships
+======
+* Association for Information Systems (AIS)
+* Association for Computing Machinery (ACM)
+* Verband der Hochschullehrerinnen und Hochschullehrer für Betriebswirtschaft e.V. (VHB)
+* Die Wirtschaftsinformatik e. V.
+* Angewandte Informatik Karlsruhe e.V. (AIK)
+* Verein zur Förderung der Wissenschaft, Forschung und Lehre auf dem Gebiet der Wirtschaftsinformatik e.V.
+* Education for Refugees e.V.
+* Schützenverein Friedeburg e.V.
+
 Education
 ======
 * Habilitation in Applied Computer Science, Karlsruhe Institute of Technology, 2023
