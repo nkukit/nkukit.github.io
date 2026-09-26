@@ -19,7 +19,7 @@ Concretely, my current work focuses on:
 
 I aim to develop these themes further and communicate them to students, industry, and society.
 
-If you're interested in working with me, please feel free to get in touch. To learn more, explore the links below:
+If you're interested in working with me, please feel free to get in touch. Please be aware that I do not supervise external PhDs, but you are happy to apply for an internal position. To learn more, explore the links below:
 
 * [My publications ordered by citations (Google Scholar)](https://scholar.google.de/citations?user=79KpdDQAAAAJ) 
 * [Selected Talks & Media](/talks)
