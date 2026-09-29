@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-- \[Sep '26\] I hosted the UBT AI DAY 2026 at the University of Bayreuth and gave the keynote on the "Meat Proxy" alongside contributions from [Lisa Precht](https://www.bayern-innovativ.de/showcontact/detail/lisa-precht/), [Martin Braun](https://theorg.com/org/neuroforge/person/martin-braun), and [Lisa-Marie Schmidt](lisamarieschmidt.de).
+- \[Sep '26\] I hosted the UBT AI DAY 2026 at the University of Bayreuth and gave the keynote on the "Meat Proxy" alongside contributions from [Lisa Precht](https://www.bayern-innovativ.de/showcontact/detail/lisa-precht/), [Martin Braun](https://theorg.com/org/neuroforge/person/martin-braun), and [Lisa-Marie Schmidt](lisamarieschmidt.de). Reports in [English](https://ubtaktuell.uni-bayreuth.de/en/successful-ai-day-2026) and [German](https://ubtaktuell.uni-bayreuth.de/ai-day-2026-voller-erfolg).
 - \[Sep '26\] Together with [Michael Klimke](https://baiosphere.org/en/about/vita-michael-klimke) from [baiosphere](https://baiosphere.org/en/home), I gave a talk at the [brains-on-silicon Conference](https://brainsonsilicon.com/recap2026) on the [Bavarian AI Ecosystem and Responsible AI (YouTube, German)](https://youtu.be/cZoYgR4KS7U).
 - \[Aug '26\] I gave a talk on [current trends in AI](https://www.juist.de/fileadmin/user_upload/9_Leistungstraeger/02_Veranstaltungen/Plakte/08_August/27.08_KI_Grundlagen_und_Trends__Vortrag_mit_Niklas_Kuehl.pdf) on the island of Juist. 
 - \[Aug '26\] I gave an interview to Bayerischer Rundfunk on [Responsible AI (in German)](https://github.com/nkukit/nkukit.github.io/blob/master/media/Gespra%CC%88ch_Bayern_2.MP3).
