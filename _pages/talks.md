@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
+- \[Oct '26\] I was interviewed by the Nordkurier on [recent AI developments and their governance (in German)](https://github.com/nkukit/nkukit.github.io/blob/master/PDFs/Nordkurier_Anthropic.pdf).
 - \[Oct '26\] I was interviewed by the human magazine on [trust in AI (in German)](https://human-magazin.de/wp-admin/admin-ajax.php?action=tnp&na=v&nk=3205-1791639331.7d4c2160a0c87c3fe7e10d9bfdd6c4c4&id=122).
 - \[Oct '26\] I was invited to join the AI Summit of the Bavarian Digital Ministry to discuss AI regulation with Mistral, Google and OpenAI. [Press Release (in German)](https://www.stmd.bayern.de/pressemitteilungen/minister-dr-mehring-zu-ki-muessen-geister-die-wir-rufen-auch-beherrschen--bayerns-digitalminister-zieht-konsequenzen-aus-hochrangigem-ki-gipfel-bayerischer-ki-sicherheitsdialog-jaehrlicher-sicherheitsbericht-ki-ethikkommission-und-breit-angelegte-aufklaerungskampagne--ki-sicherheitsinstitut-soll-nach-bayern).
 - \[Oct '26\] I gave an invited keynote with the title "Who Presses the Button? Human Oversight of AI Between Claim and Practice" at the [Cambridge Social Dynamics Team](https://social-dynamics.net/seminars.html) / [Nokia Bells Lab](https://www.nokia.com/bell-labs/about/locations/cambridge-uk/) in Cambridge, UK. [Event Link](https://www.eventbrite.co.uk/e/who-presses-the-button-human-oversight-of-ai-between-claim-and-practice-tickets-2001539238743), [Youtube (not available yet)]().
