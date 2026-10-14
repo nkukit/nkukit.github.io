@@ -13,6 +13,12 @@ Here is a selected overview of my work experience, experience abroad, awards, an
 
 Work experience
 ======
+* Since 10/2024: Founder and Executive Director
+  * AI Responsibility Centre (ARC), University of Bayreuth
+ 
+* Since 08/2026: Executive Director
+  * Research Center for AI in Science & Society (RAIS2), University of Bayreuth
+
 * Since 10/2024: Lecturer "Applied Artificial Intelligence"
   * TUM School of Management, Technical University Munich
     
