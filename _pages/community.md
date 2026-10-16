@@ -14,6 +14,7 @@ Reviewer Activities
  * AAAI Conference on Artificial Intelligence (AAAI)
  * Human Factors in Computing Systems (CHI)
  * Nature Communications
+ * Information Systems Research (ISR)
  * Management Information Systems Quarterly (MISQ)
  * Information Systems Journal (ISJ)
  * European Journal of Information Systems (EJIS)
