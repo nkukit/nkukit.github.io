@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+- \[Oct '26\] I was invited to give the keynote on recent AI developments for administration at [byte](https://www.byte.bayern/).
+- \[Oct '26\] I was invited to give a keynote about [AI and Care](https://diakonie.plus/meldungen/detail/artikel/impulstag-ki-co-innovationen-fuer-menschen-a) at Diakonie Baden.
 - \[Oct '26\] I was interviewed by the Nordkurier on [recent AI developments and their governance (in German)](https://github.com/nkukit/nkukit.github.io/blob/master/PDFs/Nordkurier_Anthropic.pdf).
 - \[Oct '26\] I was interviewed by the human magazine on [trust in AI (in German)](https://human-magazin.de/wp-admin/admin-ajax.php?action=tnp&na=v&nk=3205-1791639331.7d4c2160a0c87c3fe7e10d9bfdd6c4c4&id=122).
 - \[Oct '26\] I was invited to join the AI Summit of the Bavarian Digital Ministry to discuss AI regulation with Mistral, Google and OpenAI. [Press Release (in German)](https://www.stmd.bayern.de/pressemitteilungen/minister-dr-mehring-zu-ki-muessen-geister-die-wir-rufen-auch-beherrschen--bayerns-digitalminister-zieht-konsequenzen-aus-hochrangigem-ki-gipfel-bayerischer-ki-sicherheitsdialog-jaehrlicher-sicherheitsbericht-ki-ethikkommission-und-breit-angelegte-aufklaerungskampagne--ki-sicherheitsinstitut-soll-nach-bayern).
