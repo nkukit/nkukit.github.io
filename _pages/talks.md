@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
+- \[Nov '26\] I gave an interview to the [Gute Rat Magazine (BurdaVerlag, in German)](https://github.com/nkukit/nkukit.github.io/blob/master/PDFs/Guter_Rat_KI_Risiken.pdf) on the dark side of AI.
 - \[Oct '26\] I was invited to give the keynote on recent AI developments for administration at [byte](https://www.byte.bayern/).
 - \[Oct '26\] I was invited to give a keynote about [AI and Care](https://diakonie.plus/meldungen/detail/artikel/impulstag-ki-co-innovationen-fuer-menschen-a) at Diakonie Baden.
 - \[Oct '26\] I was interviewed by the Nordkurier on [recent AI developments and their governance (in German)](https://github.com/nkukit/nkukit.github.io/blob/master/PDFs/Nordkurier_Anthropic.pdf).
