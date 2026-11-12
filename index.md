@@ -22,5 +22,7 @@ Interested in working with me? Get in touch. Please note that I don't supervise 
 * [Teaching portfolio](/teaching)
 * [Community Services](/community)
 * [CV and Honors](/cv)
+
 * [My how-to-write papers guide: howtopaper.xyz](http://www.howtopaper.xyz)
+* [My how-to-presentations guide: howtopresentation.xyz](http://howtopresentation.xyz)
 * [My open-access Applied AI course: appliedaicourse.xyz](http://www.appliedaicourse.xyz)
